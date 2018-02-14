@@ -1,0 +1,9 @@
+my_item=[1,1,1,2,2,3,3,4]
+my_item2=[4,5,5,6,6]
+uni_item=set(my_item)
+print(uni_item)
+uni_item2=set(my_item2)
+print(uni_item2)
+my_str="hello"
+uni_mystr=set(my_str)
+print(uni_mystr)
